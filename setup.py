@@ -6,7 +6,7 @@ setup(
     author="38c",
     author_email="chimera@38c.xyz",
     description="Scratch API library, can authenticate through session and access cloud variables.",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/38c1/Chimera/",
     packages=find_packages(),
@@ -17,7 +17,8 @@ setup(
     ],
     python_requires=">=3.6",
     install_requires=[
-        "websocket-client",
-        "requests"
+        "websocket-client>=1.0.0",
+        "requests>=2.25.1"
     ],
+    keywords=["scratch", "API", "cloud variables", "authentication"],
 )
