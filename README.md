@@ -11,8 +11,9 @@
 
 ## Quick Start
 
-To get started, you can load Chimera directly by executing this Python code:
-
+To get started, you can load Chimera by executing this code:
+```pip
+pip install git+https://github.com/38c1/Chimera.git
+```
 ```python
-import requests
-exec(requests.get("https://raw.githubusercontent.com/38c1/Chimera/refs/heads/main/chimera.py").text)
+from chimera import chimera
