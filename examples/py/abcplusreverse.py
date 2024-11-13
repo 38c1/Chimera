@@ -60,7 +60,7 @@ def main():
 
                     time.sleep(1)
                 else:
-                    print("Failed to decode, waiting before retry...")
+                    print("Failed to decode, waiting before retry... (This could be because the variable hasn't been updated recently enough to appear in the Cloud Data logs.)")
                     time.sleep(5)
             except Exception as e:
                 print(f"Error in main loop: {e}")
