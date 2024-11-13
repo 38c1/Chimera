@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]  # Specifies the build tools required
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Chimera"
+version = "0.1.0"
+description = "Scratch API library, can authenticate through session and access cloud variables."
+readme = "README.md"
+requires-python = ">=3.6"
+
+authors = [
+    {name = "38c", email = "chimera@38c.xyz"}
+]
+
+dependencies = [
+    "websocket-client",
+    "requests"
+]
+
+license = {text = "MIT"}
+keywords = ["scratch", "websocket", "cloud-data", "chimera"]
+homepage = "https://github.com/38c1/Chimera"
+repository = "https://github.com/38c1/Chimera"
+
+[project.urls]
+"Documentation" = "https://github.com/38c1/Chimera#readme"
+"Bug Tracker" = "https://github.com/38c1/Chimera/issues"
