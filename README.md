@@ -4,6 +4,8 @@
 
 **Chimera** is lightweight and neatly fits into one Python file.
 
+<img src="media/Chimera.svg" alt="Description of Image" width="25%" />
+
 ![GitHub license](https://badgen.net/github/license/38c1/Chimera)
 
 ## Quick Start
