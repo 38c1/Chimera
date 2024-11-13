@@ -20,9 +20,9 @@ dependencies = [
 
 license = {text = "MIT"}
 keywords = ["scratch", "websocket", "cloud-data", "chimera"]
-homepage = "https://github.com/38c1/Chimera"
-repository = "https://github.com/38c1/Chimera"
 
 [project.urls]
+homepage = "https://github.com/38c1/Chimera"
+repository = "https://github.com/38c1/Chimera"
 "Documentation" = "https://github.com/38c1/Chimera#readme"
 "Bug Tracker" = "https://github.com/38c1/Chimera/issues"
