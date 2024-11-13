@@ -6,7 +6,7 @@ import requests
 import time
 
 # Load and execute chimera.py from URL
-exec(requests.get("https://raw.githubusercontent.com/38c1/Chimera/refs/heads/main/chimera.py").text)
+exec(requests.get("https://raw.githubusercontent.com/38c1/Chimera/refs/heads/main/chimera/chimera.py").text)
 
 # Create array with first 10 spots empty, then alphabet
 cipher = [None] * 10 + list('_abcdefghijklmnopqrstuvwxyz')
