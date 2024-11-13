@@ -16,4 +16,4 @@ To get started, you can load Chimera by executing this code:
 pip install git+https://github.com/38c1/Chimera.git
 ```
 ```python
-from chimera import chimera
+from chimera import Chimera
