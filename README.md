@@ -6,8 +6,8 @@
 
 <img src="media/Chimera.svg" alt="Description of Image" width="50%" />
 
-![GitHub license](https://badgen.net/github/license/38c1/Chimera)
-![Stable release](https://badgen.net/github/release/38c1/Chimera/stable)
+![GitHub license](https://badgen.net/github/license/38c1/Chimera/)
+![Stable release](https://badgen.net/github/release/38c1/Chimera/stable/)
 
 ## Quick Start
 
