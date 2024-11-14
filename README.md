@@ -17,3 +17,6 @@ pip install git+https://github.com/38c1/Chimera.git
 ```
 ```python
 from chimera import Chimera
+```
+
+For more documentation, visit the [Wiki](https://github.com/38c1/Chimera/wiki/).
