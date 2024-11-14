@@ -18,7 +18,7 @@ Logo above [Traced from source](https://images.squarespace-cdn.com/content/v1/52
 ## Quick Start
 
 To get started, you can load Chimera by executing this code:
-```pip
+```console
 pip install git+https://github.com/38c1/Chimera.git
 ```
 ```python
