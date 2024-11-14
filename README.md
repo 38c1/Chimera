@@ -9,6 +9,8 @@
 
 <img src="media/Chimera.svg" alt="Description of Image" width="50%" />
 
+Logo above [Traced from source](https://images.squarespace-cdn.com/content/v1/52234a60e4b02733badcd0b9/1407307589018-70U10PQIBQK5JFY8QS9O/The+Chimera.jpg?format=2500w).
+
 ![GitHub license](https://badgen.net/github/license/38c1/Chimera/)
 ![Stable release](https://badgen.net/github/release/38c1/Chimera/stable/)
 ![GitHub clones](https://img.shields.io/badge/Clones-27-blue)
