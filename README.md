@@ -1,4 +1,7 @@
 # Chimera Scratch API
+### Chimera is a Python package that lets you access parts of the Scratch API. It is maintained by [38c](https://github.com/38c1).
+
+***
 
 **Chimera** lets you sign into your Scratch account through your `session_id` and read/write Cloud Variables.
 
