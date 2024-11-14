@@ -11,6 +11,7 @@
 
 ![GitHub license](https://badgen.net/github/license/38c1/Chimera/)
 ![Stable release](https://badgen.net/github/release/38c1/Chimera/stable/)
+![GitHub clones](https://img.shields.io/badge/Clones-27-blue)
 
 ## Quick Start
 
