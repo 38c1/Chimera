@@ -13,9 +13,12 @@ Logo above [Traced from source](https://images.squarespace-cdn.com/content/v1/52
 
 ![GitHub license](https://badgen.net/github/license/38c1/Chimera/)
 ![Stable release](https://badgen.net/github/release/38c1/Chimera/stable/)
-![GitHub clones](https://img.shields.io/badge/Clones-27-blue)
+![GitHub clones](https://img.shields.io/badge/Clones-33-blue)
 
 ## Quick Start
+
+> [!CAUTION]
+> Chimera is in it's very early stages of development and is prone to issues.
 
 To get started, you can load Chimera by executing this code:
 ```console
