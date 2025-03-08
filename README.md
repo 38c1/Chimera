@@ -20,7 +20,7 @@ Logo above [Traced from source](https://images.squarespace-cdn.com/content/v1/52
 > [!CAUTION]
 > Chimera is in it's very early stages of development and is prone to issues.
 
-To get started, you can load Chimera by executing this code:
+To get started, you can load Chimera by executing this in PowerShell:
 ```console
 pip install git+https://github.com/38c1/Chimera.git
 ```
